@@ -1,0 +1,39 @@
+html body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.containerImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    padding: unset!important;
+    height: 100vh;
+}
+
+.boxImg{
+    position: relative;
+    height: 100vh;
+}
+
+.img{
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.iconApp{           
+    width: 22%;             
+}
+
+.containerLogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.w100{
+    width: 100%;
+}
